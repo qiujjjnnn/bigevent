@@ -8,6 +8,10 @@ body {
   background-size: cover;
 }
 
+.logo {
+  margin-top: 20px;
+}
+
 .loginAndRegBox {
   width: 400px;
   height: 310px;
